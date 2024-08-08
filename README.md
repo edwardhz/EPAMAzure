@@ -8,7 +8,7 @@
 
    ![Logo](images/2.jpg)
 
-4. I created the Static Web App resource from the Azure Portal. I used GitHub as the source, and since it was just an HTML website, I chose HTML for Build Presets option.
+4. I created the Static Web App resource from the Azure Portal. I used GitHub as the source (Connect my Github account and chose repo and branch), and since it was just an HTML website, I chose HTML for Build Presets option. And for App Location option I chose / since the HTML file was in the root folder.
 
    ![Logo](images/3.jpg)
 
